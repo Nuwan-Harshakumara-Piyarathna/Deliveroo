@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Deliveroo</string>
+    <string name="map">Add location</string>
+    <string name="enter_address">Enter Address , City or Zip code</string>
+    <string name="confirm">Order</string>
+    <string name="click_me">add to cart</string>
+    <string name="cart">See Cart</string>
+    <string name="sample_data">Sample data</string>
+    <string name="go">All Foods</string>
+    <string name="enter_quantity">Enter quantity</string>
+    <string name="enter_food_id">Enter food id</string>
+    <string name="add_location">Add Location</string>
+    <string name="food">food</string>
+    <string name="price">price</string>
+    <string name="invalid_mobile">Please Enter a valid phone number</string>
+    <string name="invalid_address">Please Enter a valid address</string>
+    <string name="invalid_city">Please enter a valid city</string>
+    <string name="credit_card">credit-card</string>
+    <string name="money">Money</string>
+</resources>
