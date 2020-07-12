@@ -49,6 +49,8 @@
     <li>Samsung Galaxy M10 [os-Pie]</li>
     <li>Samsung Galaxy J5 [os-Marshmallow]</li>
      <li>Oppo A5 2020 [os-Oreo]</li>
+    <li>HTC Google Nexus One [os-Marshmallow]</li>
+    <li>Google Pixel 3a [os-Marshmallow]</li>
 </ul>
 <p>Apk file was added - <a href="https://github.com/NuwanHarsha/Deliveroo/tree/master/app-debug-apk">view APK</a> </p>
 <br>
