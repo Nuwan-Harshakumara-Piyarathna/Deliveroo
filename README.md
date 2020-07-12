@@ -48,9 +48,9 @@
 <ul>
     <li>Samsung Galaxy M10 [os-Pie]</li>
     <li>Samsung Galaxy J5 [os-Marshmallow]</li>
-   
-    <p>Apk file was added - <a href="https://github.com/NuwanHarsha/Deliveroo/tree/master/app-debug-apk">view APK</a> </p>
 </ul>
+<p>Apk file was added - <a href="https://github.com/NuwanHarsha/Deliveroo/tree/master/app-debug-apk">view APK</a> </p>
+<br>
 <h2>Contact Details</h2>
 <ul>
     <li>Contributer: nuwan.harshamatrix@gmail.com</li>
