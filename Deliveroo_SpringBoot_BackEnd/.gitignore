@@ -1,1 +1,7 @@
-
+.idea
+.idea/*
+.settings
+.settings/*
+.classpath
+.project
+Restaurant.iml
