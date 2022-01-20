@@ -1,6 +1,6 @@
 <html>
 <head>
-    <h1>Deliveroo - Food Ordering System</h1>
+    <h1>Deliveroo : Food Ordering System</h1>
 </head>
 <body>
 <h2>What is this repository for?</h2>
